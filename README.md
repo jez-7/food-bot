@@ -1,4 +1,4 @@
-food-bot 🥟🤖
+food-bot 🍕🤖
 food-bot es un sistema inteligente de gestión de pedidos vía WhatsApp diseñado para automatizar la atención al cliente en locales gastronómicos. Utiliza Inteligencia Artificial para interpretar lenguaje natural, permitiendo que los clientes realicen pedidos de forma conversacional sin fricciones.
 
 🚀 Características Principales
@@ -23,13 +23,13 @@ application: Casos de uso y orquestación de la lógica.
 infrastructure: Adaptadores para el mundo exterior (Spring Boot, WhatsApp Meta API, Redis, PostgreSQL).
 
 🛠️ Stack Tecnológico
-Lenguaje: Java 21 (Virtual Threads)
+Lenguaje: Java 25 (Virtual Threads)
 
-Framework: Spring Boot 3.x
+Framework: Spring Boot 4
 
 Base de Datos: PostgreSQL (Persistencia) & Redis (Mensajería Asíncrona)
 
-IA: Google Gemini API / OpenAI API
+IA: Google Gemini API  
 
 Comunicación: WhatsApp Business API (Meta)
 
