@@ -1,7 +1,8 @@
+
 🍕🤖 food-bot es un sistema inteligente de gestión de pedidos vía WhatsApp diseñado para automatizar la atención al cliente en locales gastronómicos. Utiliza Inteligencia Artificial para interpretar lenguaje natural, permitiendo que los clientes realicen pedidos de forma conversacional sin fricciones.
 
 
-🚀 Características Principales:
+## 🚀 Características Principales:
 
 • Procesamiento de Lenguaje Natural (NLP): Integración con modelos de IA (Gemini/OpenAI) para transformar mensajes de texto caóticos en datos estructurados (JSON).
 
@@ -15,7 +16,7 @@
 
 
 
-🏗️ Arquitectura del Sistema: 
+## 🏗️ Arquitectura del Sistema: 
 
 ✅ El proyecto sigue los principios de la Clean Architecture y Arquitectura Hexagonal, asegurando que el núcleo del negocio sea testeable e independiente de frameworks.
 
@@ -29,7 +30,7 @@ Estructura de Paquetes:
 
 
 
-🛠️ Stack Tecnológico:
+## 🛠️ Stack Tecnológico:
 
 • Lenguaje: Java 25 (Virtual Threads)
 
