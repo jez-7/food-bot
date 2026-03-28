@@ -1,5 +1,6 @@
+# food-bot 🤖 
 
-🍕🤖 food-bot es un sistema inteligente de gestión de pedidos vía WhatsApp diseñado para automatizar la atención al cliente en locales gastronómicos. Utiliza Inteligencia Artificial para interpretar lenguaje natural, permitiendo que los clientes realicen pedidos de forma conversacional sin fricciones.
+food-bot es un sistema inteligente de gestión de pedidos vía WhatsApp diseñado para automatizar la atención al cliente en locales gastronómicos. Utiliza Inteligencia Artificial para interpretar lenguaje natural, permitiendo que los clientes realicen pedidos de forma conversacional sin fricciones.
 
 
 ## 🚀 Características Principales:
