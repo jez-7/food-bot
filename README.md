@@ -33,7 +33,7 @@ Estructura de Paquetes:
 
 ## 🛠️ Stack Tecnológico:
 
-• Lenguaje: Java 25 (Virtual Threads)
+• Lenguaje: Java 21 (Virtual Threads)
 
 • Framework: Spring Boot 4
 
