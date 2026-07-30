@@ -4,7 +4,6 @@ import java.math.BigDecimal;
 import java.util.UUID;
 
 public class Product {
-
     private final UUID id;
     private final String name;
     private final String description;
